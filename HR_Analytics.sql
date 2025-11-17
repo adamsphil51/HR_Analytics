@@ -1,7 +1,5 @@
--- =====================================================
 -- Project: HR_Analytics_Dawa
 -- Purpose: Employee demographics, payroll, and performance analytics
--- =====================================================
 
 -- 1. Employees table
 CREATE TABLE Employees (
